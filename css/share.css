@@ -47,9 +47,9 @@
 }
 
 #dropdown .shareWithConfirm {
-	padding: 11px;
 	right: 17px;
-	top: 18px;
+	top: 13px;
+	background-color: transparent !important;
 }
 
 #app-content #dropdown .shareWithConfirm {
